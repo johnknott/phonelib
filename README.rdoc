@@ -1,4 +1,4 @@
-== Phonelib
+== Phonelib!
 
 {<img src="https://travis-ci.org/daddyz/phonelib.png?branch=master" alt="Build Status" />}[http://travis-ci.org/daddyz/phonelib]
 {<img src="https://badge.fury.io/rb/phonelib.png" alt="Gem Version" />}[http://badge.fury.io/rb/phonelib]
